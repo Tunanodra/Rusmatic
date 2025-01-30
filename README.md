@@ -15,9 +15,13 @@ layout:
 
 # 欢迎
 
+本文档已于2025年1月31日进行重要更新
+
+
+
 [锈蚀伊始之地](nouns/xiu-shi-yi-shi-zhi-di.md)Rusmatic(锈羽派)是基于[Avali](https://avali.fandom.com/)的一个二次创作的文化背景以及一系列设定集合, 其唯一作者为Tunanodra. 在此特别鸣谢DeepDeoTechDragons Industry对本项目的支持
 
-Rusmatic(锈羽派)遵守Avali Wiki中对于[Independent Worlds](https://avali.fandom.com/wiki/Factions#Independent\_Worlds)的设定, 是一个独立的世界, 并且其起源中也已经明确提到了设定等, 更多请参考章节[LICENSE](nouns/license.md).
+Rusmatic(锈羽派)遵守Avali Wiki中对于[Independent Worlds](https://avali.fandom.com/wiki/Factions#Independent_Worlds)的设定, 是一个独立的世界, 并且其起源中也已经明确提到了设定等, 更多请参考章节[LICENSE](nouns/license.md).
 
 Rusmatic是一个包容开放的文化, 拥有大量的内容.
 

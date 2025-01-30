@@ -2,12 +2,17 @@
 
 * [欢迎](README.md)
 
+## DGTD-Rusmatic-共荣计划 <a href="#dgtdrusmatic-unity-project" id="dgtdrusmatic-unity-project"></a>
+
+* [共荣计划概括](dgtdrusmatic-unity-project/gong-rong-ji-hua-gai-kuo.md)
+* [共荣计划早期基地计划书](dgtdrusmatic-unity-project/gong-rong-ji-hua-zao-qi-ji-di-ji-hua-shu.md)
+
 ## 文化 <a href="#civilization" id="civilization"></a>
 
-* [历史背景](civilization/history.md)
-* [宗教信仰](civilization/religion.md)
-* [语言和文字](civilization/language.md)
-* [艺术形式](civilization/art.md)
+* [乐土之殇与锈蚀新生](civilization/history.md)
+* [负熵之海与锈蚀神谕](civilization/religion.md)
+* [羽痕中的新生与共生诗篇](civilization/language.md)
+* [腐蚀史诗中的神圣叙事](civilization/art.md)
 
 ## 社会结构 <a href="#social" id="social"></a>
 
